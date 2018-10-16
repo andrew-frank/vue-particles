@@ -151,7 +151,7 @@
                 "color": "#192231"
               },
               "polygon": {
-                "nb_sides": 5
+                "nb_sides": 6
               }
             },
             "opacity": {

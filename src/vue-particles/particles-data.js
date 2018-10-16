@@ -17,7 +17,7 @@ const particlesData = {
                 "color": "#000000"
             },
             "polygon": {
-                "nb_sides": 5
+                "nb_sides": 6
             },
             "image": {
                 "src": "img/github.svg",
